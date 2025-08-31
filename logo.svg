@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <!-- Outer circle -->
+  <circle cx="60" cy="60" r="55" stroke="#003366" stroke-width="4" fill="#ffffff"/>
+  
+  <!-- Inner blue circle -->
+  <circle cx="60" cy="60" r="40" fill="#003366"/>
+  
+  <!-- DU text -->
+  <text x="60" y="68" font-size="28" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-weight="bold">
+    DU
+  </text>
+  
+  <!-- University text below -->
+  <text x="60" y="110" font-size="14" text-anchor="middle" fill="#003366" font-family="Arial, sans-serif">
+    Deakin University
+  </text>
+</svg>
