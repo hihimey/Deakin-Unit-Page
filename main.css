@@ -90,3 +90,28 @@ table a {
   text-decoration: none;
   font-weight: bold;
 }
+section {
+  margin: 20px 0;
+  padding: 15px;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+}
+
+section h2 {
+  color: #003366;
+  margin-bottom: 10px;
+}
+
+article {
+  margin-bottom: 15px;
+}
+
+article h3 {
+  color: #0055a5;
+  margin-bottom: 5px;
+}
+
+ul {
+  list-style-type: square;
+  margin-left: 20px;
+}
